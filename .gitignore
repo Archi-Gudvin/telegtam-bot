@@ -1,0 +1,5 @@
+*.log
+packages/
+bin/
+.config
+.vs/
